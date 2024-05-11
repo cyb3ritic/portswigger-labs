@@ -1,3 +1,5 @@
+# SQL injection vulnerability allowing login bypass
+
 import requests
 import sys
 import urllib3
